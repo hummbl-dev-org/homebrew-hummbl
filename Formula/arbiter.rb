@@ -1,8 +1,8 @@
 class Arbiter < Formula
   desc "Agent-aware code quality scoring for multi-agent codebases"
   homepage "https://github.com/hummbl-dev/arbiter"
-  url "https://files.pythonhosted.org/packages/32/21/f3f92d200e864ac3e5a6e64733eafc3d75624118fdc0dcb740f00c237045/arbiter_score-1.0.0.tar.gz"
-  sha256 "39dc2730d12c8374905223567c0a80a59a8c1e6a746b5aa79c59a279e5a81c69"
+  url "https://files.pythonhosted.org/packages/6f/cc/28084198e37169c18d4004eec73a27a431b6502e3adc5545f73b21cf9590/arbiter_score-1.1.0.tar.gz"
+  sha256 "6ae1d7f380e6c6ee75bc51106c35745c6ae9c5494b5c0754d313bb0fa45687ad"
   license "Apache-2.0"
 
   depends_on "python@3.11"
